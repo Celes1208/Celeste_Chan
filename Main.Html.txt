@@ -11,6 +11,6 @@ cuando se esta pensando
 esta ES MI PÁGINA WEB
 y esto un texto preformateado</pre>
 Inicio de un separador horizontal<hr align="left" width="50%" size="10"
-noshade>Bienvenidos a mi página.
+noshade>Codigo nuevo
 </body>
 </html>
