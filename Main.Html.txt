@@ -8,7 +8,7 @@ hola mundo este es un texto común
 como están, canción&oacute<br>
 cuando se esta pensando
 <pre>Hola, BIENVENIDOS
-esta ES MI PÁGINA WEB
+este es mi nuevo codigo
 y esto un texto preformateado</pre>
 Inicio de un separador horizontal<hr align="left" width="50%" size="10"
 noshade>Codigo nuevo
